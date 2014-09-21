@@ -8,6 +8,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 This script produces following variables the final output file.
 Classes ‘data.table’ and 'data.frame':  180 obs. of  82 variables:
+
  $ Activity_ID                    : int  5 4 6 1 3 2 5 4 6 1
  $ subject                        : int  2 2 2 2 2 2 4 4 4 4
  $ Activity_Label                 : num  3 2 1 4 5 6 3 2 1 4
